@@ -27,7 +27,6 @@ The Pangaea Application is a website application which helps the user to look or
 - JAVASCRIPT
 - JQUERY
 - BOOTSTRAP
-- 
 
 ### Back-end
 - RUBY
